@@ -29,7 +29,8 @@ If the user doesn't have a base map, he/she can use [Pullautuskartta database](h
 
 ## Challenges
 
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
+The solution does not automatize the whole course setting process and won't know if the generated map is 100% suitable for training in the selected terrain. As well if the base map isn't up to date, the generated course could mislead the user.  This solution won't be good for beginner orienteers.
+
 
 ## What next?
 
