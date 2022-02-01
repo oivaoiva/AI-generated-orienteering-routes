@@ -22,14 +22,10 @@ The user would upload the base map to the web service and select the difficulty,
 
 
 ## Data sources and AI methods
-Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
-If you need to use links, here's an example:
-[Twitter API](https://developer.twitter.com/en/docs)
+The data source to use is the collected library of world cup maps and the [World Of O Maps database](http://omaps.worldofo.com/index.php?). The best AI methods to use might be the Machine learning and Deep reinforcement learning (RL). [Read more of the ML and RL as a mapping tool](https://medium.com/devseed/exploring-new-ai-methods-for-road-mapping-7edbe6b73c19)
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+If the user doesn't have a base map, he/she can use [Pullautuskartta database](https://pullautuskartta.fi/) to export selected terrain as a base map.
+
 
 ## Challenges
 
