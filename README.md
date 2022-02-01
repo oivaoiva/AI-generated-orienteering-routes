@@ -13,12 +13,7 @@ This project is about building an AI to generate orienteering training courses b
 
 ## Background
 
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
-
-This is how you make a list, if you need one:
-* problem 1
-* problem 2
-* etc.
+Orienteering course setting takes time in the forest and on the computer screen. Sometimes courses need a lot of tiny adjustments. There are many things to delegate to the AI and workflows that could be easy to automate. To make a good training course, you will need many years of knowledge and experience in the course setting. The final project could save a lot of time and bring more joy to the self-training.
 
 
 ## How is it used?
