@@ -34,7 +34,7 @@ The solution does not automatize the whole course setting process and won't know
 
 ## What next?
 
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
+The prototype concept could be developed by a couple of developers. Also, the map database needs to be built up. 
 
 
 ## Acknowledgments
